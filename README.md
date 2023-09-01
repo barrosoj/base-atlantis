@@ -1,3 +1,3 @@
 ### Description
 
-Repository with baseline to run atlantis locally
+Repository with baseline to run atlantis locally.
